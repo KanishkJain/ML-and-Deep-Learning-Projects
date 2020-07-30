@@ -33,3 +33,10 @@ Sequence Models -
 5. [Tensorflow in Practice - Natural Language Processing in Tensorflow](https://www.coursera.org/account/accomplishments/records/CFT97H5YU8H9) - Course 3 of the Tensorflow in Practice Specialization. Completed following projects as course assignments -
   * *Sarcasm Detection from News Headline* - Used Convolution Layer, along with multiple Bidirectional LSTM layers in Keras to predict whether a headline is sarcastic or not based on it's headline
   * *IMDB Movie Review Sentiment Analysis* - Used Pre-Trained Glove Embeddings, along with LSTM layers to predict the sentiment (good, neutral or bad) for IMDB Movie Review dataset.
+  
+Online Courses/Specialization -
+1. **Deep Learning Specialization - deeplearnig.ai - Coursera**
+2. **Tensorflow in Practice - deeplearning.ai - Coursera**
+3. **Machine Learning - Stanford University (Andrew Ng) - Coursera**
+4. **Practical Machine Learning - John Hopkins University - Coursera**
+5. Mutliple courses from **Datacamp**, across Data Wrangling, Data Visualization, Machine Learning and Statistics
