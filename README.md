@@ -35,7 +35,7 @@ Sequence Models -
   * *IMDB Movie Review Sentiment Analysis* - Used Pre-Trained Glove Embeddings, along with LSTM layers to predict the sentiment (good, neutral or bad) for IMDB Movie Review dataset.
   
 Online Courses/Specialization -
-1. [**Deep Learning Specialization - deeplearnig.ai - Coursera**]()
+1. [**Deep Learning Specialization - deeplearnig.ai - Coursera**](https://www.coursera.org/account/accomplishments/specialization/HLQBKARHV996)
 2. [**Tensorflow in Practice - deeplearning.ai - Coursera**](https://www.coursera.org/account/accomplishments/specialization/NM98KUR9DDTV)
 3. [**Machine Learning - Stanford University (Andrew Ng) - Coursera**](https://www.coursera.org/account/accomplishments/records/5XM3MSJ46P5B)
 4. [**Practical Machine Learning - John Hopkins University - Coursera**](https://www.coursera.org/account/accomplishments/records/QA7US5DYN7ZQ)
