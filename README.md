@@ -5,7 +5,7 @@ My name is Kanishk Jain. I'm an alumni from IIT-Bombay, currently working in P&G
 ### Blogs -
 1. **Evolution of NLP** - A series of articles showing improvements in the algorithms used of various Natural Language Processing Tasks. Over last few years, NLP has seen some of the most ground-breaking innovations, that have transformed the way we used to think about NLP tasks. But, it is difficult to keep pace with these innovations, and all the resources present online are either not up to date, or too fragmented - no one place to learn it all. This inspired creation of these series, which starts from Basics - *Bag of Words*, *N-grams*, *TF-IDF* and goes to the SOTA transformer models - *BERT, RoBERTa and XLNet*. Sharing the first three articles of this series
   * [Evolution of NLP - Part 1 - Bag of Words, TF-IDF](https://medium.com/@jainkanishk001/evolution-of-nlp-part-1-bag-of-words-tf-idf-9518cb59d2d1)
-  * [Evolution of NLP - Part 2 - RNNs](https://medium.com/@jainkanishk001/evolution-of-nlp-part-2-recurrent-neural-networks-af483f708c3d)
+  * [Evolution of NLP - Part 2 - RNNs and LSTMs](https://medium.com/@jainkanishk001/evolution-of-nlp-part-2-recurrent-neural-networks-af483f708c3d)
   * [Evolution of NLP - Part 3 - Transfer Learning with ULMFit](https://medium.com/@jainkanishk001/evolution-of-nlp-part-3-transfer-learning-using-ulmfit-267d0a73421e)
   * [Evolution of NLP - Part 4 - Transformers](https://medium.com/analytics-vidhya/evolution-of-nlp-part-4-transformers-bert-xlnet-roberta-bd13b2371125)
 
