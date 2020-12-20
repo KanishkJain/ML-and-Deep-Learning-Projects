@@ -7,6 +7,7 @@ My name is Kanishk Jain. I'm an alumni from IIT-Bombay, currently working in P&G
   * [Evolution of NLP - Part 1 - Bag of Words, TF-IDF](https://medium.com/@jainkanishk001/evolution-of-nlp-part-1-bag-of-words-tf-idf-9518cb59d2d1)
   * [Evolution of NLP - Part 2 - RNNs](https://medium.com/@jainkanishk001/evolution-of-nlp-part-2-recurrent-neural-networks-af483f708c3d)
   * [Evolution of NLP - Part 3 - Transfer Learning with ULMFit](https://medium.com/@jainkanishk001/evolution-of-nlp-part-3-transfer-learning-using-ulmfit-267d0a73421e)
+  * [Evolution of NLP - Part 4 - Transformers](https://medium.com/analytics-vidhya/evolution-of-nlp-part-4-transformers-bert-xlnet-roberta-bd13b2371125)
 
 ### Machine Learning for Structured Dataset -
 1. [Analytics Vidya JanataHack - E-Commerce Analytics ML Hackathon](https://github.com/KanishkJain/Analytics-Vidhya-JantaHack-) - **2nd Rank** (Private LB) out of 2500+ participants. Used a 5-fold CV Light GBM Model, along with feature engineering to extract other-wise difficult to identify insights, to predict the gender of a shopper based on it's browsing history on an e-commerce platform; achieving 94.8% accuracy.
